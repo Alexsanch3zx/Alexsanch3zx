@@ -77,10 +77,4 @@ I'm a Computer Science student with a strong interest in backend systems, cloud 
 
 ---
 
-## 📫 Connect With Me
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
-- LinkedIn: *(optional but recommended)*
-
----
-
 ⭐ Feel free to explore my repositories and reach out!
